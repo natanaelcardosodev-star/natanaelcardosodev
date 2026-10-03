@@ -4,12 +4,12 @@
   <h1>Olá! Eu sou o Tael 👋</h1>
   <p><b>Desenvolvedor Python em Construção & Aprendiz Autodidata</b></p>
 
-  <!-- Digitação / Frase de Impacto -->
+  <!-- Digitação / Frase de Impacto 
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=3776AB&center=true&vCenter=true&width=500&lines=Estudando+Python+%26+SQL;Criando+projetos+autônomos;Buscando+minha+primeira+oportunidade!" alt="Typing SVG" />
-  </a>
+  </a>-->
 
-  <br/><br/>
+  <br/>
 
   <!-- Badges de Contato Directo -->
   <a href="https://linkedin.com/in/SEU-LINKEDIN" target="_blank">
@@ -66,7 +66,7 @@
       <h3>📂 Projeto 02 - Nome do Projeto</h3>
       <p>Descrição curta. Exemplo: Sistema em Python com banco de dados SQL para cadastro e busca de clientes via terminal.</p>
       <p><b>Tecnologias:</b> Python, SQLite</p>
-      <a href="https://github.com/[natanaelcardosodev]/[natanaelcardosodev]"> Ver Repositório →</a>
+      <a href="https://github.com/natanaelcardosodev/[natanaelcardosodev]"> Ver Repositório →</a>
     </td>
   </tr>
 </table>
@@ -76,8 +76,8 @@
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=[natanaelcardosodev]&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[natanaelcardosodev]&layout=compact&theme=tokyonight&hide=html,css"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=natanaelcardosodev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natanaelcardosodev&layout=compact&theme=tokyonight&hide=html,css"/>
 </div>
 
 <br/>
