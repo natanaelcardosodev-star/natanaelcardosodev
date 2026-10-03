@@ -50,7 +50,7 @@
 
 ---
 
-## 📌 Projetos em Destaque
+<!--## 📌 Projetos em Destaque
 
 *(Conforme você for publicando repositórios no seu perfil, insira os links abaixo para criar uma vitrine!)*
 
@@ -60,24 +60,24 @@
       <h3>📂 Projeto 01 - Nome do Projeto</h3>
       <p>Descrição curta do que o projeto faz. Exemplo: Automação que lê arquivos em PDF e organiza dados em planilhas Excel.</p>
       <p><b>Tecnologias:</b> Python, Pandas</p>
-      <a href="https://github.com/[SEU-USUARIO]/[NOME-DO-REPO]"> Ver Repositório →</a>
+      <a href="https://github.com/[natanaelcardosodev]/[natanaelcardosodev]"> Ver Repositório →</a>
     </td>
     <td width="50%">
       <h3>📂 Projeto 02 - Nome do Projeto</h3>
       <p>Descrição curta. Exemplo: Sistema em Python com banco de dados SQL para cadastro e busca de clientes via terminal.</p>
       <p><b>Tecnologias:</b> Python, SQLite</p>
-      <a href="https://github.com/[SEU-USUARIO]/[NOME-DO-REPO]"> Ver Repositório →</a>
+      <a href="https://github.com/[natanaelcardosodev]/[natanaelcardosodev]"> Ver Repositório →</a>
     </td>
   </tr>
 </table>
-
+-->
 ---
 
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=[SEU-USUARIO]&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[SEU-USUARIO]&layout=compact&theme=tokyonight&hide=html,css"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=[natanaelcardosodev]&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[natanaelcardosodev]&layout=compact&theme=tokyonight&hide=html,css"/>
 </div>
 
 <br/>
